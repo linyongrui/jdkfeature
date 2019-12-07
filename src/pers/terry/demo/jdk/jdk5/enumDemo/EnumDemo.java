@@ -1,4 +1,4 @@
-package pers.terry.demo.jdk.jdk5;
+package pers.terry.demo.jdk.jdk5.enumDemo;
 
 public class EnumDemo {
     // 无带参构造
