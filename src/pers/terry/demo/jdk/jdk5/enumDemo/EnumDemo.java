@@ -1,12 +1,12 @@
 package pers.terry.demo.jdk.jdk5.enumDemo;
 
 public class EnumDemo {
-    // 无带参构造aaaa
+    // 无带参构造aaaabbb
     public enum TrafficLamp {
         RED, GREEN, YELLW;
     }
 
-    // 提供带参构造
+    // 提供带参构造jhgjg
     public enum TrafficLamp2 {
         RED(30), GREEN(40), YELLW(5);
         private int time;
